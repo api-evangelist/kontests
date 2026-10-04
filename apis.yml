@@ -39,7 +39,6 @@ apis:
   - name: KONTESTS
     description: "For upcoming and ongoing competitive coding contests"
     humanURL: https://kontests.net/api
-    baseURL: https://kontests.net/api
     tags:
       - Programming
     properties:
